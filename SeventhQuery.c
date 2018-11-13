@@ -78,200 +78,200 @@ s[8].semester=4;
 s[8].credits=4;
 s[8].core=1;
 strcpy(s[8].code, "SEM4SUB01");
-//s[8].name=;
+//add name from subject list
 //
 s[9].semester=4;
 s[9].credits=4;
 s[9].core=1;
 strcpy(s[9].code, "SEM4SUB02");
-//s[9].name=;
+//add name from subject list
 //
 s[10].semester=4;
 s[10].credits=4;
 s[10].core=1;
 strcpy(s[10].code, "SEM4SUB03");
-//s[10].name=;
+//add name from subject list
 //
 s[11].semester=4;
 s[11].credits=4;
 s[11].core=1;
 strcpy(s[11].code, "SEM4SUB04");
-//s[11].name=;
+//add name from subject list
 //
 s[12].semester=4;
 s[12].credits=4;
 s[12].core=1;
 strcpy(s[12].code, "SEM4SUB05");
-//s[0].name=;
+//add name from subject list
 //
 s[13].semester=4;
 s[13].credits=4;
 s[13].core=1;
 strcpy(s[13].code, "SEM4SUB06");
-//s[0].name=;
+//add name from subject list
 //
 s[14].semester=4;
 s[14].credits=4;
 s[14].core=1;
 strcpy(s[14].code, "SEM4SUB07");
-//s[0].name=;
+//add name from subject list
 //
 s[15].semester=4;
 s[15].credits=4;
 s[15].core=1;
 strcpy(s[15].code, "SEM4SUB08");
-//s[0].name=;
+//add name from subject list
 //
 s[16].semester=4;
 s[16].credits=4;
 s[16].core=1;
 strcpy(s[16].code, "SEM4SUB09");
-//s[0].name=;
+//add name from subject list
 //
 s[17].semester=5;
 s[17].credits=4;
 s[17].core=1;
 strcpy(s[17].code, "SEM5SUB01");
-//s[0].name=;
+//add name from subject list
 //
 s[18].semester=5;
 s[18].credits=4;
 s[18].core=1;
 strcpy(s[18].code, "SEM5SUB02");
-//s[0].name=;
+//add name from subject list
 //
 s[19].semester=5;
 s[19].credits=4;
 s[19].core=1;
 strcpy(s[19].code, "SEM5SUB03");
-//s[0].name=;
+//add name from subject list
 //
 s[20].semester=5;
 s[20].credits=4;
 s[20].core=1;
 strcpy(s[20].code, "SEM5SUB04");
-//s[0].name=;
+//add name from subject list
 //
 s[21].semester=5;
 s[21].credits=4;
 s[21].core=1;
 strcpy(s[21].code, "SEM5SUYB05");
-//s[0].name=;
+//add name from subject list
 //
 s[22].semester=5;
 s[22].credits=4;
 s[22].core=1;
 strcpy(s[22].code, "SEM5SUB06");
-//s[0].name=;
+//add name from subject list
 //
 s[23].semester=5;
 s[23].credits=4;
 s[23].core=1;
 strcpy(s[23].code, "SEM5SUB07");
-//s[0].name=;
+//add name from subject list
 //
 s[24].semester=5;
 s[24].credits=4;
 s[24].core=1;
 strcpy(s[24].code, "SEM5SUB08");
-//s[0].name=;
+//add name from subject list
 //
 s[25].semester=5;
 s[25].credits=4;
 s[25].core=1;
 strcpy(s[25].code, "SEM5SUB09");
-//s[0].name=;
+//add name from subject list
 //
 s[26].semester=6;
 s[26].credits=4;
 s[26].core=1;
 strcpy(s[26].code, "SEM6SUB01");
-//s[0].name=;
+//add name from subject list
 //
 s[27].semester=6;
 s[27].credits=4;
 s[27].core=1;
 strcpy(s[27].code, "SEM6SUB02");
-//s[0].name=;
+//add name from subject list
 //
 s[28].semester=6;
 s[28].credits=4;
 s[28].core=1;
 strcpy(s[28].code, "SEM6SUB03");
-//s[0].name=;
+//add name from subject list
 //
 s[29].semester=6;
 s[29].credits=4;
 s[29].core=1;
 strcpy(s[29].code, "SEM6SUB04");
-//s[0].name=;
+//add name from subject list
 //
 s[30].semester=6;
 s[30].credits=4;
 s[30].core=1;
 strcpy(s[30].code, "SEM6SUB05");
-//s[0].name=;
+//add name from subject list
 //
 s[31].semester=6;
 s[31].credits=4;
 s[31].core=1;
 strcpy(s[31].code,"SEM6SUB06");
-//s[0].name=;
+//add name from subject list
 //
 s[32].semester=6;
 s[32].credits=4;
 s[32].core=1;
 strcpy(s[32].code,"SEM6SUB07");
-//s[0].name=;
+//add name from subject list
 
 //
 s[33].semester=7;
 s[33].credits=4;
 s[33].core=1;
 strcpy(s[33].code,"SEM7SUB01");
-//s[0].name=;
+//add name from subject list
 //
 s[34].semester=7;
 s[34].credits=4;
 s[34].core=1;
 strcpy(s[34].code,"SEM7SUB02");
-//s[0].name=;
+//add name from subject list
 //
 s[35].semester=7;
 s[35].credits=4;
 s[35].core=1;
 strcpy(s[35].code,"SEM7SUB03");
-//s[0].name=;
+//add name from subject list
 //
 s[36].semester=7;
 s[36].credits=4;
 s[36].core=1;
 strcpy(s[36].code,"SEM7SUB04");
-//s[0].name=;
+//add name from subject list
 //
 s[37].semester=7;
 s[37].credits=4;
 s[37].core=1;
 strcpy(s[37].code,"SEM7SUB05");
-//s[0].name=;
+//add name from subject list
 //
 s[38].semester=8;
 s[38].credits=4;
 s[38].core=1;
 strcpy(s[38].code,"SEM8SUB01");
-//s[0].name=;
+//add name from subject list
 //
 s[39].semester=8;
 s[39].credits=4;
 s[39].core=1;
 strcpy(s[39].code,"SEM8SUB02");
-//s[0].name=;
+//add name from subject list
 //
 s[40].semester=8;
 s[40].credits=4;
 s[40].core=1;
 strcpy(s[40].code,"SEM8SUB03");
-//s[0].name=;
+//add name from subject list
 //ELECTIVE SUBECTS
 s[41].semester=6;
 s[41].credits=4;
@@ -285,14 +285,12 @@ s[42].credits=4;
 s[42].core=0;
 s[42].nop=1;
 strcpy(s[42].code,"VER2ELE01");
-//strcpy(s[42].prerequisites,"\0");
 
 s[43].semester=8;
 s[43].credits=4;
 s[43].core=0;
 s[43].nop=1;
 strcpy(s[43].code,"VER3ELE01");
-//strcpy(s[43].prerequisites,"\0");
 return;
 }
 void checkprerequisites(int i)
@@ -376,13 +374,10 @@ else if(strcmp(s[i].code,searchcode)==0&& !s[i].core)
   scanf("%d",&n);
   s[41].nop=n;
   printf("Enter prerequisite subject codes: (Use a space or comma if there are multiple)\n");
-  // for(i=0;i<n;i++)
-  // {
   scanf("%s",prereq);
   strcpy(s[i].prerequisites,prereq);
 
   staff();
-  // }
 }
 }
 
