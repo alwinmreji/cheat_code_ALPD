@@ -1,3 +1,4 @@
+//https://www.hackerrank.com/challenges/game-of-stones-1/problem
 #include <bits/stdc++.h>
 
 using namespace std;

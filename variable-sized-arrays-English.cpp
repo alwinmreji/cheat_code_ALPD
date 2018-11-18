@@ -1,3 +1,4 @@
+//https://www.hackerrank.com/challenges/variable-sized-arrays/problem
 #include <iostream>
 #include <cstdio>
 using namespace std;

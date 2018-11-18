@@ -1,3 +1,4 @@
+//https://www.hackerrank.com/challenges/permutation-game/problem
 #include <cmath>
 #include <cstdio>
 #include <climits>
